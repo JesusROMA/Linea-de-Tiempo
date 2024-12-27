@@ -1,0 +1,531 @@
+/* Estilos generales */
+body {
+    
+    font-family: 'F1-TitiRegular', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    background: url('imgs/bkground.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Limitar la altura máxima del tbody y agregar scroll */
+tbody {
+    display: block; /* Hace que el tbody actúe como un bloque para controlar el tamaño */
+    max-height: 85vh; /* Elimina la restricción de altura */
+    overflow-y: auto; /* Agrega scroll vertical */
+    overflow-x: hidden;
+}
+
+/* Asegurarse de que las celdas del encabezado y el cuerpo mantengan su alineación */
+thead, tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed; /* Asegura que las columnas tengan el mismo ancho en thead y tbody */
+}
+
+/* Ajustar el ancho de las columnas */
+th, td {
+    padding: 12px; 
+    text-align: left; 
+    white-space: normal; /* Permitir que el texto se ajuste automáticamente */
+    overflow: visible; /* Permitir que todo el contenido sea visible */
+    text-overflow: clip; /* No cortar el texto */
+    text-wrap: wrap;
+}
+
+th {
+    background: linear-gradient(1deg, black, transparent);
+    color: #ffffff; 
+    font-weight: lighter; 
+    font-size: 10px;
+    text-align: center;
+    font-family: 'F1-Wide', sans-serif;
+}
+
+/* Ajusta el ancho de las últimas tres columnas */
+th:nth-last-child(2),
+td:nth-last-child(2) {
+    width: 126px; /* Ajusta el tamaño según sea necesario */
+    overflow: hidden; /* Oculta el contenido que se desborda */
+    text-align: center !important;
+}
+
+/* Para las celdas que deben ser más amplias */
+th:nth-child(5),
+td:nth-child(5) {
+    overflow: hidden; /* Evita que el contenido quepa fuera de la celda */
+    width: 136px; /* Ajusta el ancho al contenido mínimo */
+    text-align: center !important;
+}
+
+th:nth-child(4),
+td:nth-child(4) {
+    overflow: hidden; /* Evita que el contenido quepa fuera de la celda */
+    width: 136px; /* Ajusta el ancho al contenido mínimo */
+    text-align: center !important;
+}
+
+
+/* Contenedor principal */
+.container {
+    max-width: 1190px;
+    height: 705px;
+    margin: 40px auto;
+    padding: 40px;
+    background: rgba(30, 30, 30, 0.9);
+    border-radius: 12px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.7);
+}
+
+/* Estilo del loader */
+.loader-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    z-index: 9999;
+}
+
+/* Estilo del loader */
+.loader {
+    text-align: center;
+}
+
+/* Imagen del carrito */
+.car-image {
+    width: 100px;
+    animation: moveCar 3s linear infinite;
+}
+
+/* Texto de cargando */
+.loading-text {
+    margin-top: 10px;
+    font-family: 'F1-Wide', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+/* Animación para mover el carrito */
+@keyframes moveCar {
+    0% {
+        transform: translateX(0);
+    }
+    50% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@font-face {
+    font-family: 'F1-TitiRegular';
+    src: url('fonts/TitilliumWeb-Regular.otf') format('opentype'); /* Asegúrate que la ruta sea correcta */
+}
+
+@font-face {
+    font-family: 'F1-Wide';
+    src: url('fonts/Formula1-Wide.otf') format('opentype'); /* Asegúrate que la ruta sea correcta */
+}
+
+.f1-titulo {
+    font-family: 'F1-Wide', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.f1-titulo2 {
+    font-family: 'F1-Wide', sans-serif;
+    font-size: medium;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.f1-banderin-meta {
+    position: absolute; /* Fija la posición al viewport */
+    left: 123px; /* Posición horizontal basada en el ancho del viewport */
+    top: 451px;  /* Posición vertical basada en la altura del viewport */
+    transform: translate(-50%, -50%); /* Para centrar mejor */
+    z-index: 1000; /* Asegura que esté sobre otros elementos si es necesario */
+}
+
+.f1-banderin-meta img {
+    width: 80px;
+    height: auto;
+}
+
+
+/* Estilo del contenedor de la pista de carreras */
+.track-container {
+    bottom: 85%;
+    padding: auto;
+    position: relative;
+    height: 440px;
+    width: 100%;
+    right: 107px;
+}
+
+#logo-text{
+    position: relative;
+    top: 20%; /*20% */
+    left: 0%;
+}
+
+.logo-footer{
+    width: 12%;
+    height: auto;
+    position: relative;
+    right: -950px;
+    bottom: -211px;
+    top: 742px;
+}
+/* Estilo del logo */
+.legend-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.legend-logo img {
+    /*width: 30%; /* Ajustar el tamaño del logo */
+    width: 67%;
+}
+
+svg {
+    overflow: visible; /* Permite que los elementos SVG no se corten */
+}
+
+/* Estilo de la línea SVG (simular carretera) */
+.track {
+    stroke-width: 50px;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+}
+
+/* Estilo del auto F1 */
+#f1Car {
+    position: absolute;
+    width: 61px; /* Ajusta el tamaño según sea necesario */
+    height: auto;
+    transform-origin: center;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
+}
+
+/* Estilo de los puntos SVG */
+.point-line {
+    fill: rgb(0, 0, 0); /* Color del punto */
+    stroke-width: 8px; 
+    transition: stroke 0.3s ease, stroke-width 0.3s ease; /* Transición suave para el color y el grosor del trazo */
+    stroke-linecap: square; 
+}
+
+.point:hover {
+    transform: scale(1.4); /* Aumentar tamaño al pasar el mouse */
+}
+
+.point-line:hover {
+    stroke: rgb(252, 0, 0); /* Color al pasar el ratón */
+    stroke-width: 4; /* Grosor del trazo al pasar el ratón */
+}
+
+.weekly-segment {
+    fill: rgba(0, 0, 0, 0.1); /* Color de relleno inicial */
+    transition: fill 0.3s ease, stroke-width 0.3s ease; /* Transición suave para el relleno y el grosor del trazo */
+}
+
+.weekly-segment:hover {
+    fill: rgba(0, 0, 0, 0.3); /* Color de relleno al pasar el ratón */
+    stroke-width: 2; /* Grosor del trazo al pasar el ratón */
+}
+
+.tooltip {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.77);
+    color: #6a6a6a;
+    padding: 5px;
+    border-radius: 3px;
+    display: none;
+    pointer-events: none; /* Evita que el tooltip interfiera con los eventos del ratón */
+    max-width: 90%; /* Limita el ancho del tooltip para que no se salga en pantallas pequeñas */
+    width: auto;
+    word-wrap: break-word; /* Permite que el texto se ajuste en múltiples líneas */
+    z-index: 11000;
+    display: flex;
+    flex-direction: column; /* Alinea los elementos uno debajo del otro */
+    align-items: center; /* Centra los elementos horizontalmente */
+}
+
+#tooltip-title {
+    font-weight: bold;
+    font-size: 14px; /* Ajusta el tamaño si es necesario */
+    text-align: right;
+    padding-left: 35px;
+    padding-right: 35px; /* Agrega también padding a la derecha para balancear */
+    margin: 0 auto; /* Garantiza que el título se mantenga centrado */
+    /* Elimina el width: 100%, no es necesario */
+}
+
+#tooltip-content {
+    font-size: 12px;
+    text-align: center; /* Asegura que el contenido también esté centrado */
+}
+
+
+
+
+/* Animación en los puntos al cargar */
+.point.animated {
+   /* animation: bounce 1s infinite;  Añadir animación bounce */
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+/* Estilos de los segmentos semanales SVG */
+.weekly-segment {
+    fill: rgba(255, 255, 255, 0.3); /* Fondo semi-transparente blanco */
+    stroke: rgba(255, 255, 255, 0.8); /* Borde visible blanco */
+    opacity: 0; /*Se vuelve transparente el fondo blanco */
+}
+
+.weekly-segment:hover {
+    fill: rgba(255, 255, 255, 0.5); /* Cambiar color al pasar el mouse */
+}
+
+/* Estilos de la tabla */
+.track-container table { 
+   position: absolute; 
+   top: calc(55% - (200px / 2)); /* Ajusta según la altura de la tabla */ 
+   left: calc(50% - (calc(100% -40px) /2)); /* Centra horizontalmente */ 
+   width: calc(100% - 40px); 
+   border-collapse: collapse; 
+   background-color: #222; 
+   z-index: 3;
+   table-layout: fixed; 
+}
+
+#infoTable {
+    background: linear-gradient(1deg, black, transparent);
+    font-family: 'F1-TitiRegular';
+    font-size: larger;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 100px; /* Asegura que haya espacio suficiente para la paginación */
+}
+
+
+/* Estilos de las celdas de la tabla con animación al hover */
+th, td {
+   width: auto;
+   padding: 12px; 
+   text-align: left; 
+   transition: background-color .3s, transform .2s; /* Transiciones suaves para fondo y transformación */ 
+   text-wrap: wrap;
+}
+
+th {
+    background: linear-gradient(1deg, black, transparent);
+   color: #ffffff; 
+   font-weight: lighter; 
+   font-size: 10px;
+   text-align: center;
+   font-family: 'F1-Wide', sans-serif;
+}
+
+td:hover {
+   background-color: rgba(255, 255, 255, 0.1); /* Efecto hover en celdas de datos */ 
+   transform: scale(1.02); /* Escalar ligeramente al pasar el mouse */ 
+   color: #000000;
+}
+
+/* Efecto hover en filas de la tabla */
+tr:hover {
+   background-color: rgba(255,255,255,.05); /* Efecto hover en filas más sutiles */ 
+}
+
+/* Estilos de la paginación */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 95px;
+    position: relative; /* Asegura que el z-index funcione */
+    z-index: 10; /* Ajusta este valor según sea necesario */
+}
+
+
+.pagination button { 
+   background-color:#ff0000; 
+   color:white; 
+   border:none; 
+   padding :10px20px; 
+   margin :010px; 
+   cursor:pointer; 
+   border-radius :5px; 
+   transition :background-color .3s; /* Transición suave en el fondo del botón */ 
+}
+
+.pagination button:hover { 
+   background-color:#ff4343; /* Color al pasar el mouse sobre el botón */ 
+}
+
+/* Mejora de accesibilidad */
+button :focus , .point :focus { outline :2px solid #00b8ff ; /* Contorno al enfocar botones y puntos */ }
+/* Estilo general del modal */
+#modal {
+    display: none; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    background: linear-gradient(1deg, black, transparent); /* Fondo oscuro semi-transparente */
+    justify-content: center; 
+    align-items: center;
+    z-index: 9999; /* Mayor valor de z-index para asegurar que esté sobre todo */
+}
+
+.modal-card {
+    background-image: url('imgs/bktable.png');
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 600px;
+    width: 90%;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.6); /* Sombra más oscura */
+    position: relative;
+    z-index: 10000; /* El modal debe estar aún más alto que el fondo */
+}
+
+.modal-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.modal-table th, .modal-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Puedes ajustar esto según tus colores */
+    text-wrap: wrap;
+}
+
+.modal-table th {
+    margin-top: 0;
+    font-size: 0.8em;
+    color: #ffffff;
+    font-family: 'F1-Wide', sans-serif;
+    text-align: center;
+    width: 30%; /* Para que el encabezado ocupe menos espacio */
+}
+
+.modal-table td {
+    font-size: 1em;
+    color: #ffffff;
+    font-family: 'F1-TitiRegular', sans-serif;
+    background: linear-gradient(1deg, black, transparent);
+    text-wrap: wrap;
+}
+
+.modal-close {
+    background: #f83b3b; 
+    color: white; 
+    border: none; 
+    padding: 8px 12px; 
+    border-radius: 50%; 
+    cursor: pointer; 
+    position: absolute; 
+    top: 10px; 
+    right: 10px;
+    z-index: 10001; /* Asegurar que el botón de cierre esté por encima */
+}
+
+.modal-close:hover {
+    background: #ff4c4c;
+}
+
+/* Botón de cerrar modal */
+.modal-content {
+    margin-top: 12px;
+    font-size: 18px;
+    line-height: 1.5;
+    background: linear-gradient(1deg, black, transparent);
+}
+
+/* Para truncar el texto de las columnas en la tabla */
+td {
+    text-wrap: wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px;
+    background: linear-gradient(1deg, black, transparent);
+}
+
+tr.clickable-row:hover {
+    background-color: #f1f1f1e5;
+    cursor: pointer;
+    color: #000000;
+}
+/* Estilos para el contenedor de la tabla en el modal */
+/* Estilo general del modal */
+#infoTableModal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 160%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+
+/* Contenido del modal */
+.modal-content2 {
+    background: rgba(0, 0, 0, 0.0); /* Fondo del contenido del modal */
+    padding: 20px;
+    border-radius: 12px;
+    width: 90%; /* Ancho del modal */
+    position: relative;
+    top: -40%;
+}
+
+/* Contenedor de la tabla dentro del modal */
+.table-container {
+    max-height: 80vh; /* Establece una altura máxima para el contenedor */
+    overflow-y: auto; /* Agrega desplazamiento vertical si es necesario */
+    margin-top: 20px; /* Espacio entre el encabezado y la tabla */
+}
+
+/* Estilo de la tabla */
+#infoTable {
+    width: 100%; /* La tabla ocupará todo el contenedor */
+    border-collapse: collapse; /* Sin espacio entre celdas */
+    background-image: url('imgs/bktable.png');
+    color: #ffffff; /* Color del texto */
+}
+
+.modal-close2 {
+    background: #f83b3b;
+    color: white;
+    border: none;
+    padding: 10px 15px; /* Aumenta el tamaño del botón */
+    border-radius: 50%; /* Mantén el borde redondeado */
+    cursor: pointer;
+    position: absolute;
+    bottom: 103px;
+    right: -34px;
+    z-index: 10001; /* Asegura que el botón de cierre esté por encima */
+    font-size: 16px; /* Aumenta el tamaño del texto en el botón */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Sombra para destacar el botón */
+}

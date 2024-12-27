@@ -1,0 +1,4579 @@
+{
+    "filas a programar": [
+        {
+            "Actividad": "Planeación programa de voluntarios",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 4 días",
+            "Inicio ": "16/01/2023",
+            "Fin": "1/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "650"
+        },
+        {
+            "Actividad": "Presentación entretenimiento lista",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 67 días",
+            "Inicio ": "22/01/2023",
+            "Fin": "3/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "644"
+        },
+        {
+            "Actividad": "Brief agencias",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "29/01/2023",
+            "Fin": "1/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "637"
+        },
+        {
+            "Actividad": "Revisión y entrega de template para reporte de cobertura de medios",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 2 días",
+            "Inicio ": "31/01/2023",
+            "Fin": "2/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "635"
+        },
+        {
+            "Actividad": "Preparación propuestas agencias",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 27 días",
+            "Inicio ": "31/01/2023",
+            "Fin": "2/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "635"
+        },
+        {
+            "Actividad": "Tower Estructuras",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 96 días",
+            "Inicio ": "02/02/2023",
+            "Fin": "5/8/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "633"
+        },
+        {
+            "Actividad": "Planeación del Look & Feel",
+            "Responsable": "Creativo F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Planeación de objetivos de campaña y Briefs/Uso de Look & Feel en espacios y objetos"
+        },
+        {
+            "Actividad": "Planeación de objetivos de campaña y Briefs",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Uso de Look & Feel en espacios y objetos/Definición de espacios y tamaño de montaje"
+        },
+        {
+            "Actividad": "Uso de Look & Feel en espacios y objetos",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Definición de espacios y tamaño de montaje/Adhesión a imagen del cliente"
+        },
+        {
+            "Actividad": "Definición de espacios y tamaño de montaje",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1,Gerencia Producción F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Adhesión a imagen del cliente",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Amenities"
+        },
+        {
+            "Actividad": "Amenities",
+            "Responsable": "Subdirección Promotoría Experiencia al Cliente y Sustentabilidad F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Tiempo sin la holgura necesaria para la producción "
+        },
+        {
+            "Actividad": "Definición de pautado Marketing Digital",
+            "Responsable": "Gerencia Mercadotecnia Digital F1 ",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Elaboración de contenidos/Publicación de contenidos"
+        },
+        {
+            "Actividad": "Elaboración de contenidos",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Agenda de contenidos"
+        },
+        {
+            "Actividad": "Publicación de contenidos",
+            "Responsable": "Gerencia Mercadotecnia Digital F1 ",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Agenda de contenidos"
+        },
+        {
+            "Actividad": "Definición de Pautado Redes Sociales",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Elaboración de contenidos",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Aprobación/Agenda de contenidos"
+        },
+        {
+            "Actividad": "Publicación de contenidos",
+            "Responsable": "Gerencia Mercadotecnia Digital F1 ",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Aprobación/Agenda de contenidos"
+        },
+        {
+            "Actividad": "Publicación de contenidos patrocinadores Redes Sociales",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Aprobación/Agenda de contenidos"
+        },
+        {
+            "Actividad": "Definición de participación (entrevista, colaboración, artículo)",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Vocero para entrevistas",
+            "Responsable": "Creativo F1, Gerencia Relaciones Públicas F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Colaboraciones",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Aprobación"
+        },
+        {
+            "Actividad": "Monitoreo de campañas",
+            "Responsable": "Gerencia Mercadotecnia F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Informes de impactos/Monitoreo de Publicaciones de Redes Sociales"
+        },
+        {
+            "Actividad": "Informes de impactos",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Monitoreo de Publicaciones de Redes Sociales",
+            "Responsable": "Gerencia Redes Sociales F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Informe de Impactos"
+        },
+        {
+            "Actividad": "Informe de Impactos",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Revisión de requisitos",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Contratación de profesionales",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Recopilación y validación de la información",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Integración del informe",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Envío de Informe",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Compilación para la generación del Informe CPTM",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Definición de aspectos a evaluar",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Selección de proveedores",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Evaluación de resultados de encuestas, estudios e informes",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Acreditación medios. Revisión y envío de acreditaciones",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 390 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "07/03/2024",
+            "Evento": "10/27/24",
+            "Días al Evento": "623",
+            "Stoper": "Falla en la Plataforma "
+        },
+        {
+            "Actividad": "Reunión Kick Off",
+            "Responsable": "RP MKT y Digital CIE, Agencia INK PR,IWO",
+            "Duración": "Dura 1 días",
+            "Inicio ": "12/02/2023",
+            "Fin": "2/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "623"
+        },
+        {
+            "Actividad": "Definición de la ubicación",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estudio de mecánica de suelos "
+        },
+        {
+            "Actividad": "Definición de la dimensión",
+            "Responsable": "Dirección General de CIE Internacional y F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Levantamiento topográfico"
+        },
+        {
+            "Actividad": "Estudio de mecánica de suelos",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Definición de presupuesto de construcción"
+        },
+        {
+            "Actividad": "Levantamiento topográfico",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Preaprobación OMDAI, FIA"
+        },
+        {
+            "Actividad": "Definición de presupuesto de construcción",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Permisos de construcción"
+        },
+        {
+            "Actividad": "Preaprobación OMDAI, FIA",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Materiales de construcción"
+        },
+        {
+            "Actividad": "Permisos de construcción",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Mano de obra"
+        },
+        {
+            "Actividad": "Materiales de construcción",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Planos"
+        },
+        {
+            "Actividad": "Mano de obra",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Aprobación"
+        },
+        {
+            "Actividad": "Planos",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Dictamen D.R.O"
+        },
+        {
+            "Actividad": "Aprobación",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Tiempo de construcción"
+        },
+        {
+            "Actividad": "Dictamen D.R.O",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Avance de la obra"
+        },
+        {
+            "Actividad": "Evaluación y Validación OMDAI",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Avance de la obra/Evaluación y Validación OMDAI"
+        },
+        {
+            "Actividad": "Evaluación FIA",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Que existan actividades por concluir"
+        },
+        {
+            "Actividad": "Pago de derechos",
+            "Responsable": "Contraloría F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Evaluación FIA/Pago de derechos"
+        },
+        {
+            "Actividad": "Certificación de Pista bajo estándar FIA",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Evaluación FIA"
+        },
+        {
+            "Actividad": "Análisis de espacio disponible (viabilidad para determinar la vocación del espacio)",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Definición de la dimensión"
+        },
+        {
+            "Actividad": "Determinación de Activaciones. Espacios A&B, Hospitalidades, Suites, Club, Grada, Patrocinio, Servicios Adicionales",
+            "Responsable": "Gerencia Producción F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estimación M2 /PP/Servicios"
+        },
+        {
+            "Actividad": "Estimación metro cuadrado por persona-servicios",
+            "Responsable": "Gerencia Producción F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estimación y costo M2 /PP/Servicios"
+        },
+        {
+            "Actividad": "Costeo de metro cuadrado de servicios",
+            "Responsable": "Gerencia Planeación Financiera",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Valuación de espacios Off Track Estimación M2 /PP/Servicios"
+        },
+        {
+            "Actividad": "Estimación de ingresos",
+            "Responsable": "Gerencia Planeación Financiera",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estimación y costoM2 /PP/Servicios/Valuación de espacios On Track"
+        },
+        {
+            "Actividad": "Valuación de espacios On Track",
+            "Responsable": "Gerencia Planeación Financiera",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estimación y costoM2 /PP/Servicios/Valuación de espacios Off Track"
+        },
+        {
+            "Actividad": "Valuación de espacios Off Track",
+            "Responsable": "Gerencia Planeación Financiera",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estimación y costo M2 /PP/Servicios/Valuación de espacios Off Track"
+        },
+        {
+            "Actividad": "Estimación de egresos",
+            "Responsable": "Gerencia Planeación Financiera",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Valuación de espacios Off Track/Estimación de egresos/Estimación de rentabilidad"
+        },
+        {
+            "Actividad": "Estimación de rentabilidad",
+            "Responsable": "Gerencia Planeación Financiera",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Estimación de egresos/Estimación de rentabilidad"
+        },
+        {
+            "Actividad": "Tabla de Precios",
+            "Responsable": "Gerencia Planeación Financiera, Dirección General de CIE Internacional y F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Determinación de canales de venta"
+        },
+        {
+            "Actividad": "Determinación de canales de venta",
+            "Responsable": "Gerencia Planeación Financiera, Dirección General de CIE Internacional y F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Master plan v1.0"
+        },
+        {
+            "Actividad": "Master plan (borrador, versiones y as built)",
+            "Responsable": "Gerencia Producción F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Tabla de Precios/Determinación de canales de venta/Master plan v1.0"
+        },
+        {
+            "Actividad": "Arte Poster Carrera",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Aprobación"
+        },
+        {
+            "Actividad": "Catálogo de Productos F1",
+            "Responsable": "Creativo F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Definición del inventario para boletera"
+        },
+        {
+            "Actividad": "Definición del inventario para boletera",
+            "Responsable": "Coordinación Boletaje F1 ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Junta de consejo"
+        },
+        {
+            "Actividad": "Cuadre (se realiza cada semana)",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Venta de productos"
+        },
+        {
+            "Actividad": "Solicitud para la generación de boletos",
+            "Responsable": "Subdirección de Prom, Experiencia al Cliente y Sustentabilidad",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Fechas de salida a la venta (solicitudes listas)"
+        },
+        {
+            "Actividad": "Logística de impresión (por (No hay sugerencias))",
+            "Responsable": "Ticketmaster",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Salida a la venta"
+        },
+        {
+            "Actividad": "Fechas de salida a la venta  (solicitudes listas)",
+            "Responsable": "Subdirección de Prom, Experiencia al Cliente y Sustentabilidad",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Autorización de Dirección General"
+        },
+        {
+            "Actividad": "Salida a la venta",
+            "Responsable": "Coordinación Boletaje F1 ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Propuesta Conceptual"
+        },
+        {
+            "Actividad": "Presentación",
+            "Responsable": "Creativo F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Renegociación de Venta"
+        },
+        {
+            "Actividad": "Propuesta Conceptual",
+            "Responsable": "Dirección Comercial F1, Dirección Sr Comercial F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Nuevos Clientes"
+        },
+        {
+            "Actividad": "Renegociación de Venta",
+            "Responsable": "Dirección Sr Comercial F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Entrega de Boletos y Productos"
+        },
+        {
+            "Actividad": "Nuevos Clientes",
+            "Responsable": "Coordinación Media Center F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Alta de cliente en software de ventas"
+        },
+        {
+            "Actividad": "Entrega de Boletos y Productos",
+            "Responsable": "Coordinación Media Center F1, Gerente de Admin e Info Comercial ",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Contratos o cartas firmados por el cliente (Documentos del clientes para contrato)"
+        },
+        {
+            "Actividad": "Alta de cliente en software de ventas",
+            "Responsable": "Dirección Comercial F1, Dirección Sr Comercial F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Analítica de Pagos"
+        },
+        {
+            "Actividad": "Contratos o cartas firmados por el cliente (Documentos del clientes para contrato)",
+            "Responsable": "Jurídico F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Seguimiento de contrato"
+        },
+        {
+            "Actividad": "Analítica de Pagos",
+            "Responsable": "Contraloría F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Adiciones / Modificaciones"
+        },
+        {
+            "Actividad": "Seguimiento de contrato",
+            "Responsable": "Dirección Sr Comercial F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Cobranza"
+        },
+        {
+            "Actividad": "Adiciones / Modificaciones",
+            "Responsable": "Dirección Sr Comercial F1",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Recorrido de pista"
+        },
+        {
+            "Actividad": "Cobranza",
+            "Responsable": "Gerencia de Exp al cliente, Hospitalidades y Sustentabilidad",
+            "Duración": "Dura 68 días",
+            "Inicio ": "2/22/23",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "613",
+            "Stoper": "Ceremonia de apertura"
+        },
+        {
+            "Actividad": "Presentación Agencias",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "27/02/2023",
+            "Fin": "2/28/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "608"
+        },
+        {
+            "Actividad": "Presentación LANDYARD SUITES",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "07/03/2023",
+            "Fin": "3/7/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "600",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Ajustes generales LANDYARD SUITES",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 8 días",
+            "Inicio ": "07/03/2023",
+            "Fin": "3/14/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "600",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 141 días",
+            "Inicio ": "14/03/2023",
+            "Fin": "8/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "593"
+        },
+        {
+            "Actividad": "Propuesta de render del back, copete y faldón del módulo de pre carga",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 145 días",
+            "Inicio ": "14/03/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "593"
+        },
+        {
+            "Actividad": "Presentación de opciones",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "14/03/2023",
+            "Fin": "3/14/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "593"
+        },
+        {
+            "Actividad": "Aprobación de propuesta LANDYARD SUITES",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "14/03/2023",
+            "Fin": "3/14/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "593"
+        },
+        {
+            "Actividad": "Vasos Aluminio Promocionales",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 62 días",
+            "Inicio ": "15/03/2023",
+            "Fin": "5/15/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "592"
+        },
+        {
+            "Actividad": "Ajustes generales",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 7 días",
+            "Inicio ": "15/03/2023",
+            "Fin": "3/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "592",
+            "Stoper": "Entrega de materiales para campaña precarga"
+        },
+        {
+            "Actividad": "Elección de propuesta por parte de CITIBANAMEX",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 77 días",
+            "Inicio ": "15/03/2023",
+            "Fin": "5/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "592",
+            "Stoper": "Entrega de materiales para campaña precarga/Inicio de la campaña de pre carga"
+        },
+        {
+            "Actividad": "Ajustes generales",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 7 días",
+            "Inicio ": "15/03/2023",
+            "Fin": "3/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "592"
+        },
+        {
+            "Actividad": "Elección de propuesta por parte de CITIBANAMEX",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 77 días",
+            "Inicio ": "15/03/2023",
+            "Fin": "5/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "592"
+        },
+        {
+            "Actividad": "Propuesta de entretenimiento lista",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "15/03/2023",
+            "Fin": "3/15/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "592"
+        },
+        {
+            "Actividad": "Negociación con compras",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "18/03/2023",
+            "Fin": "3/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "589"
+        },
+        {
+            "Actividad": "Ajustes finales propuestas",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "20/03/2023",
+            "Fin": "3/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "587"
+        },
+        {
+            "Actividad": "Propuestas agencias",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "25/03/2023",
+            "Fin": "3/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "582"
+        },
+        {
+            "Actividad": "Presentación LANDYARD CASHLESS",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "28/03/2023",
+            "Fin": "3/28/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "579"
+        },
+        {
+            "Actividad": "Presentación LANDYARD GRADA 3",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 29 días",
+            "Inicio ": "28/03/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "579"
+        },
+        {
+            "Actividad": "Ajustes generales LANDYARD GRADA 3",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "28/03/2023",
+            "Fin": "3/28/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "579"
+        },
+        {
+            "Actividad": "Ajustes generales LANDYARD CASHLESS",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 29 días",
+            "Inicio ": "28/03/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "579"
+        },
+        {
+            "Actividad": "Presentación Entretenimiento lista",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "29/03/2023",
+            "Fin": "3/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "578"
+        },
+        {
+            "Actividad": "Inicio de ajustes y mejoras en plataforma",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 26 días",
+            "Inicio ": "01/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "575"
+        },
+        {
+            "Actividad": "Levantamiento de necesidades. (Roles, cantidad, etc.)",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 47 días",
+            "Inicio ": "01/04/2023",
+            "Fin": "5/17/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "575",
+            "Stoper": "Presentación entretenimiento lista"
+        },
+        {
+            "Actividad": "Cotización de sobres para boletos RP impresos",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 11 días",
+            "Inicio ": "02/04/2023",
+            "Fin": "4/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "574"
+        },
+        {
+            "Actividad": "Primera entrega de propuesta general activación grada 3- (Incluir renders de giveaways por día y cuáles, uniformes, gráficos, etc.)",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "04/04/2023",
+            "Fin": "4/4/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "572",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Visualización y propuesta de punto de entrega de kits.",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "04/04/2023",
+            "Fin": "4/4/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "572"
+        },
+        {
+            "Actividad": "Mantenimiento a infraestructura Pit Lane Paddock, Pista",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Acceso al inmueble"
+        },
+        {
+            "Actividad": "Registro de personal",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Apertura de la plataforma"
+        },
+        {
+            "Actividad": "Trámite migración",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Trámite aduanal internación de maquinaria y equipo",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Gestión Administrativa con gobierno local (acceso, representación, movilidad, tránsito)",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Montaje de escuderías",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Trámite de migración"
+        },
+        {
+            "Actividad": "Montaje de cocina DO & CO",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Trámite de internamiento de maquinaria y equipo"
+        },
+        {
+            "Actividad": "Montaje telecom",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": " "
+        },
+        {
+            "Actividad": "Montaje de hospital",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Trámite de internamiento de maquinaria y equipo"
+        },
+        {
+            "Actividad": "Montaje",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Internamiento"
+        },
+        {
+            "Actividad": "Requerimientos OMDAI y FIA",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Acceso al inmueble"
+        },
+        {
+            "Actividad": "Recorrido de pista",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Acceso al inmueble"
+        },
+        {
+            "Actividad": "Implementación",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Proveeduría"
+        },
+        {
+            "Actividad": "Atención de observaciones",
+            "Responsable": "Dirección General de CIE Internacional y F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Producción"
+        },
+        {
+            "Actividad": "Informe OMDAI/FIA",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Producción"
+        },
+        {
+            "Actividad": "Registro en sistema (plataformas)",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Análisis de requisitos, branding, imagen",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Master Plan v1.0"
+        },
+        {
+            "Actividad": "Render, muestra, mobiliario propuesto",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Master Plan v2.0"
+        },
+        {
+            "Actividad": "Producción",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Master Plan v3.0"
+        },
+        {
+            "Actividad": "Servicios",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Master Plan as built"
+        },
+        {
+            "Actividad": "Validación",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Entrega (Check List)"
+        },
+        {
+            "Actividad": "Master Plan V1",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Dirección Operaciones F1"
+        },
+        {
+            "Actividad": "Master Plan V2",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Producción Minuto a Minuto"
+        },
+        {
+            "Actividad": "Master Plan V3",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Selección de Audiencia"
+        },
+        {
+            "Actividad": "Master Plan V4",
+            "Responsable": "Dirección OperacionesF1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Media Kit"
+        },
+        {
+            "Actividad": "Entrega (Check List)",
+            "Responsable": "Gerente de Producción F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Operación"
+        },
+        {
+            "Actividad": "Producción Minuto a Minuto",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Asignación de espacios de trabajo"
+        },
+        {
+            "Actividad": "Selección de Audiencia",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Acuerdo de proveedores de equipo de imagen (reparación y préstamo de cámaras y lentes)"
+        },
+        {
+            "Actividad": "Media Kit",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Planeación"
+        },
+        {
+            "Actividad": "Operación",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Determinación de audiencia meta"
+        },
+        {
+            "Actividad": "Programa de shuttle",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Asignación de espacios de trabajo",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Acuerdo de proveedores de equipo de imagen (reparación y préstamo de cámaras y lentes)",
+            "Responsable": "Coordinación de Compras F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Definición de Objetivos"
+        },
+        {
+            "Actividad": "Planeación",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Definición de imagen (Look & feel)"
+        },
+        {
+            "Actividad": "Determinación de audiencia meta",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Monitoreo",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Evaluación",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Media KIt"
+        },
+        {
+            "Actividad": "Definición de objetivo",
+            "Responsable": "Creativo F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Definición de imagen (Look & feel)",
+            "Responsable": "Creativo F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Aprobación "
+        },
+        {
+            "Actividad": "Planeación de trabajo con medios (entrevistas, colaboraciones, influencers, conferencias)",
+            "Responsable": "Coordinación Media Center F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Definición de Espacios y tamaño de montaje"
+        },
+        {
+            "Actividad": "Promoción con medios (boletines de prensa)",
+            "Responsable": "Coordinación Media Center F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Adhesión a imagen del cliente"
+        },
+        {
+            "Actividad": "Media Kit",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Amenities"
+        },
+        {
+            "Actividad": "Campañas de redes sociales",
+            "Responsable": "Gerencia Redes Sociales F1 ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Producción"
+        },
+        {
+            "Actividad": "Definición de look & feel",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Definición de Espacios y tamaño de montaje"
+        },
+        {
+            "Actividad": "Definición de Espacios y tamaño de montaje",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Adhesión a imagen del cliente",
+            "Responsable": "Creativo F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Definición de look & feel"
+        },
+        {
+            "Actividad": "Producción",
+            "Responsable": "Dirección de Mercadotecnia ",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Protocolo de apertura"
+        },
+        {
+            "Actividad": "Validación",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Atención al cliente del Gran Premio de la CDMX"
+        },
+        {
+            "Actividad": "Fuentes de ingresos (productos)",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Fiscalización y estado de resultados"
+        },
+        {
+            "Actividad": "Planeación de ingresos",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Estado de resultados/ Informes financieros"
+        },
+        {
+            "Actividad": "Escenarios financieros",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Informes Financieros"
+        },
+        {
+            "Actividad": "Presupuesto de ingresos",
+            "Responsable": "Dirección Planeación Financiera",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Rentabilidades"
+        },
+        {
+            "Actividad": "Control presupuestal",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Fuentes de egresos",
+            "Responsable": "Dirección Planeación Financiera",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Planeación de Egresos",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Asignación cargos y Abonos/Contabilización de Egresos"
+        },
+        {
+            "Actividad": "Escenarios financieros",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Presupuesto de Egresos",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Contabilización de Egresos/"
+        },
+        {
+            "Actividad": "Presupuesto de Ingresos",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Escenarios financieros"
+        },
+        {
+            "Actividad": "Estado de resultados",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Informes Financieros",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Fuentes de egresos"
+        },
+        {
+            "Actividad": "Rentabilidades",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Fuentes de ingresos (productos)"
+        },
+        {
+            "Actividad": "Ajustes de asientos contables",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Contabilización de Ingresos",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Fiscalización"
+        },
+        {
+            "Actividad": "Contabilización de Egresos",
+            "Responsable": "Gerencia Planeación Financiera F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571",
+            "Stoper": "Fiscalización"
+        },
+        {
+            "Actividad": "Asignación cargos y Abonos",
+            "Responsable": "Contraloría F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Fiscalización",
+            "Responsable": "Contraloría F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Scouting en autódromo Hermanos Rodriguez",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Revisión y pruebas de Look & Feel",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Entrega de últimos detalles de mood board",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Brief para Agencias que realizarán un all In a Terrza A, Speed Lounge Amarillo y Speed Lounge 8A",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Entrega de Master Graphic",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Sombra para MGS, CMB, PPB",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Brief Hospitalidades Live Events y MKP",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Aplicación de Moodboard a materiales y mobiliario",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Definición de espacio de bodegas y cocina debajo de las Gradas PP eses, TSB A y Sports Lounge Azul",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Sembrado de mobiliario (Aforo de acuerdo al brief de cada hospitalidad) Propuesta de iluminación, materiales y showroom físico",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Aplicación Master Graphic. Propuesta para muros/divisiones y pisos. Entrega física",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Solicitud de carpas, octanorm y pisos a proveedores",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Solicitud de infraestructura (gas, agua, suministro eléctrico)",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización y solicitud de recubrimientos a proveedores",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Entrega de renders y layouts Agencias, Live Events y MKP",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización y solicitud de mobiliario a proveedores",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización de presupuesto de hospitalidades",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Cierre de autorización de hospitalidades",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Entrega de gráficos para intervención de hospitalidades",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización de logos",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Entrega de altas de logos",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Entrega de altas a proveedor para pruebas de color",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización de pruebas de color",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización de placas para clientes",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Autorización de personalización suite",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Nussli grada SLS Estructuras",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "05/04/2023",
+            "Fin": "4/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "571"
+        },
+        {
+            "Actividad": "Proveedores de renders Renders",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 31 días",
+            "Inicio ": "09/04/2023",
+            "Fin": "5/9/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "567"
+        },
+        {
+            "Actividad": "IFOOD Comida",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "10/04/2023",
+            "Fin": "4/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "566"
+        },
+        {
+            "Actividad": "Proyecto de banderines sustentables  Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "10/04/2023",
+            "Fin": "4/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "566"
+        },
+        {
+            "Actividad": "Ideartte Impresos/Carpas",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "10/04/2023",
+            "Fin": "4/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "566"
+        },
+        {
+            "Actividad": "Búsqueda de proveedores",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Directorio de proveedores",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Clasificación",
+            "Responsable": "Gerencia de Riesgos",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Requisitos",
+            "Responsable": "Contraloría F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Criterios para Desarrollo de Proveedores",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Requisitos"
+        },
+        {
+            "Actividad": "Reglas de negocio",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Requisitos/Criterios para Desarrollo de Proveedores"
+        },
+        {
+            "Actividad": "Proyección de compra",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Requisitos/Criterios para Desarrollo de Proveedores/Negociación"
+        },
+        {
+            "Actividad": "Negociación",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Reglas de negocio/Volumen de compra"
+        },
+        {
+            "Actividad": "Volumen de compra",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Negociación"
+        },
+        {
+            "Actividad": "Criterios de viabilidad",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Negociación/Volumen de compra"
+        },
+        {
+            "Actividad": "Cotización",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Negociación/Volumen de compra/Criterios de viabilidad"
+        },
+        {
+            "Actividad": "Orden de compra",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Negociación/Volumen de compra/Criterios de viabilidad/cotización"
+        },
+        {
+            "Actividad": "Contrato",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Cotización, Orden de compra"
+        },
+        {
+            "Actividad": "Logística de entrega",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Contrato"
+        },
+        {
+            "Actividad": "Entrega",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Logística de entrega"
+        },
+        {
+            "Actividad": "Criterios de evaluación",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Entrega"
+        },
+        {
+            "Actividad": "Aplicación de Evaluación",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Criterios de evaluación"
+        },
+        {
+            "Actividad": "Resultados",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Aplicación de Evaluación"
+        },
+        {
+            "Actividad": "Cierre administrativo",
+            "Responsable": "Contraloría F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Resultados"
+        },
+        {
+            "Actividad": "Política de entregas de productos/bienes y servicios a usuarios",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563",
+            "Stoper": "Cierre administrativo"
+        },
+        {
+            "Actividad": "Eficiencias Locutores ",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 10 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Situación Mariatinto Vino",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 11 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/23/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Muestra de playera para Marketing Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Show room impresos ",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 14 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Carros de Golf / Motos Carros de Golf",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 172 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Muestra de suéter para Marketing Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 23 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "5/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Cajas para marketing Cajas",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Definición de Proveedor Ambientación Diseño de Look & Feel",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 13 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Contrato Dosai Fibra Óptica",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Plus Muebles",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "13/04/2023",
+            "Fin": "4/17/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "563"
+        },
+        {
+            "Actividad": "Uniformes de PR Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 16 días",
+            "Inicio ": "15/04/2023",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "561"
+        },
+        {
+            "Actividad": "Muestras de Lanyard Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 13 días",
+            "Inicio ": "17/04/2023",
+            "Fin": "4/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "559"
+        },
+        {
+            "Actividad": "Brief audio y video de Promotoría Audio y video ",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 16 días",
+            "Inicio ": "17/04/2023",
+            "Fin": "5/2/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "559"
+        },
+        {
+            "Actividad": "Banderines de Promotoría Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 16 días",
+            "Inicio ": "17/04/2023",
+            "Fin": "5/2/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "559"
+        },
+        {
+            "Actividad": "Muestras nuevas de gorras Textiles",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 16 días",
+            "Inicio ": "17/04/2023",
+            "Fin": "5/2/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "559"
+        },
+        {
+            "Actividad": "Muestras de bolsas ecológicas Promocionales",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 7 días",
+            "Inicio ": "17/04/2023",
+            "Fin": "4/23/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "559"
+        },
+        {
+            "Actividad": "Recorrido de pista",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Aprobación de la fecha por parte del inmueble"
+        },
+        {
+            "Actividad": "Ceremonia de apertura",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Uniformes (Política)"
+        },
+        {
+            "Actividad": "Protocolo show previo a la carrera",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Validación por el cliente"
+        },
+        {
+            "Actividad": "Protocolo carreras de soporte",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Uniformes (Política)",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Planeación",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Propuesta conceptual",
+            "Responsable": "Gerencia Producción F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Ubicación"
+        },
+        {
+            "Actividad": "Validación por el cliente",
+            "Responsable": "Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Ubicación/Definición de criterios a evaluar"
+        },
+        {
+            "Actividad": "Programación",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Ubicación",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1,Gerencia Producción F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Definición de criterios a evaluar",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Selección de proveedores",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Ubicación"
+        },
+        {
+            "Actividad": "Evaluación de resultados de encuestas, estudios e informes",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Pre registro",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Convocatoria",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Pre registro"
+        },
+        {
+            "Actividad": "Selección",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Capacitación/Operación"
+        },
+        {
+            "Actividad": "Asignación",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Experiencia al Cliente Corporativo"
+        },
+        {
+            "Actividad": "Capacitación",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Experiencia al Cliente Corporativo/ Capacitación"
+        },
+        {
+            "Actividad": "Operación",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Asignación de staff"
+        },
+        {
+            "Actividad": "Experiencia al Cliente Corporativo",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Branding",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Acreditación"
+        },
+        {
+            "Actividad": "Experiencia culinaria",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Planeación"
+        },
+        {
+            "Actividad": "Activaciones por zona",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Amenities"
+        },
+        {
+            "Actividad": "Extensión de horarios",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Activaciones por zona"
+        },
+        {
+            "Actividad": "Acreditación Marca",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Acreditación Entretenimiento",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Selección/Acreditación"
+        },
+        {
+            "Actividad": "Experiencia Culinaria",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Asignación de staff",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Experiencia culinaria/Activaciones por zona/Extensión de horarios"
+        },
+        {
+            "Actividad": "Planeación",
+            "Responsable": "Gerencia Experiencia al Cliente Hospitalidades y Protocolos F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Facilidades (espacios Media Center, traslados)",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Asignación de staff"
+        },
+        {
+            "Actividad": "Experiencia culinaria",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Acreditación"
+        },
+        {
+            "Actividad": "Asignación de staff",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Planeación (Media Kit)",
+            "Responsable": "Coordinación Media Center F1 ",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Selección/ Planeación"
+        },
+        {
+            "Actividad": "Actividades con Medios",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Planeación de amenidades y actividades (Kermesse)",
+            "Responsable": "Coordinación Media Center F1 ",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558",
+            "Stoper": "Registro de personal"
+        },
+        {
+            "Actividad": "Ednovi Pirotecnia",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Arcos acceso general  Display",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 7 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Estructuras MK impresos",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 21 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "5/8/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Brief PADDOCK CLUB, RP Agencias btl",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 31 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "5/18/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "William Scotman oficinas  Oficinas móviles",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "PSH Oficinas móviles",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "18/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "558"
+        },
+        {
+            "Actividad": "Tiempo de construcción",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 9 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Evaluación y Validación OMDAI"
+        },
+        {
+            "Actividad": "Avance de la obra",
+            "Responsable": "Equipo de Proyecto ",
+            "Duración": "Dura 9 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "N/A"
+        },
+        {
+            "Actividad": "Datos de registro",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Formulario",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Datos de registro"
+        },
+        {
+            "Actividad": "Listado de personal acreditado",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Formulario"
+        },
+        {
+            "Actividad": "Permisos",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Listado de personal acreditado"
+        },
+        {
+            "Actividad": "Coordinación de Vuelos",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos/Coordinación proveedor traslado aéreo/Vuelos Comerciales"
+        },
+        {
+            "Actividad": "Coordinación proveedor traslado aéreo",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Vuelos Comerciales",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos"
+        },
+        {
+            "Actividad": "Coordinación traslados Médicos",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos"
+        },
+        {
+            "Actividad": "Transmisión aérea Track TV",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos"
+        },
+        {
+            "Actividad": "Objetos Prohibidos",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos"
+        },
+        {
+            "Actividad": "Accesos a Estacionamiento",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos"
+        },
+        {
+            "Actividad": "Revisión en accesos",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Permisos"
+        },
+        {
+            "Actividad": "Etiqueta de trato al personal",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554",
+            "Stoper": "Listado de personal acreditado"
+        },
+        {
+            "Actividad": "Escaleras de servicio Construcción",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 9 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Puente temporal Total show Construcción",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Display GNP, PHOTO OPP,  Display",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Cotizar mecánica de suelo Construcción",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 11 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/2/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Amevi Ambulancias",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Bajas de agua pit building,  Construcción",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 7 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/28/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Módulos de información Display",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Video voluntarios  Audio y video ",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 16 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/7/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Módulos de información Display",
+            "Responsable": "Coordinación de Compras F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Enviar pull telehanders ontrack Maquinaria",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Cotización piso BackStage Piso",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Contrato y alta Macrane Maquinaria",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Sanirent  Oficinas móviles",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 4 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Definición de seguridad Hospitalidades Seguridad",
+            "Responsable": "Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 10 días",
+            "Inicio ": "22/04/2023",
+            "Fin": "5/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "554"
+        },
+        {
+            "Actividad": "Aprobación de propuesta LANDYARD CASHLESS",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "25/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "551"
+        },
+        {
+            "Actividad": "Aprobación de propuesta LANDYARD GRADA 3",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "25/04/2023",
+            "Fin": "4/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "551"
+        },
+        {
+            "Actividad": "Presentación Aluminio  PPT",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "26/04/2023",
+            "Fin": "4/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "550"
+        },
+        {
+            "Actividad": "Envío de activaciones a MKT",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "13/05/2023",
+            "Fin": "5/13/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "533"
+        },
+        {
+            "Actividad": "Fecha límite para mandar legales finales",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "20/05/2023",
+            "Fin": "5/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "526",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Aprobación de propuesta general",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 15 días",
+            "Inicio ": "23/05/2023",
+            "Fin": "6/6/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "523",
+            "Stoper": "Cierre de la campaña de pre carga"
+        },
+        {
+            "Actividad": "Contar con la estructura de practicas profesionales y voluntarios que se mandarían a las universidades",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 5 días",
+            "Inicio ": "27/05/2023",
+            "Fin": "5/31/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "519",
+            "Stoper": "Levantamiento de necesidades. (Roles, cantidad, etc.)"
+        },
+        {
+            "Actividad": "Correcciones de Renders",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "31/05/2023",
+            "Fin": "5/31/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "515"
+        },
+        {
+            "Actividad": "Entrega de boletos TICKETFAST",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 45 días",
+            "Inicio ": "01/06/2023",
+            "Fin": "7/15/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "514",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Envío a FOM propuesta general",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 18 días",
+            "Inicio ": "04/06/2023",
+            "Fin": "6/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "511",
+            "Stoper": "Presentación de opciones"
+        },
+        {
+            "Actividad": "Página Web México GP Lista",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "07/06/2023",
+            "Fin": "6/7/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "508",
+            "Stoper": "Inicio de programación y pruebas plataforma"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar renders de tokens para su producción",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "10/06/2023",
+            "Fin": "6/10/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "505",
+            "Stoper": "Fecha límite para mandar legales finales"
+        },
+        {
+            "Actividad": "Correcciones FOM",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "10/06/2023",
+            "Fin": "6/10/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "505"
+        },
+        {
+            "Actividad": "Envío a FOM propuesta general",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "10/06/2023",
+            "Fin": "6/10/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "505"
+        },
+        {
+            "Actividad": "Correcciones FOM",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 12 días",
+            "Inicio ": "10/06/2023",
+            "Fin": "6/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "505"
+        },
+        {
+            "Actividad": "Envío a fom propuesta activación grada 3",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "10/06/2023",
+            "Fin": "6/10/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "505"
+        },
+        {
+            "Actividad": "Contar con todos los convenios con Universidades ya firmados",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 5 días",
+            "Inicio ": "18/06/2023",
+            "Fin": "6/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "497",
+            "Stoper": "Planeación programa de voluntarios"
+        },
+        {
+            "Actividad": "Entrega de primera versión del manual de citibanamex cashless",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "20/06/2023",
+            "Fin": "6/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "495",
+            "Stoper": "Fecha límite para mandar legales finales"
+        },
+        {
+            "Actividad": "Spot",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/06/2023",
+            "Fin": "6/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "491",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Página de programa digital",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/06/2023",
+            "Fin": "6/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "491",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Entrega de boletos SUITE",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 46 días",
+            "Inicio ": "01/07/2023",
+            "Fin": "8/15/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "484",
+            "Stoper": "Entrega de propuesta de renders. (Módulos cashless, bonificación, tótems, playeras, pallets, tokens.) Seguimiento de cambios"
+        },
+        {
+            "Actividad": "Teaser 1 Convocatorio redes sociales",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "11/07/2023",
+            "Fin": "7/11/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "474",
+            "Stoper": "Página Web México GP Lista"
+        },
+        {
+            "Actividad": "Contratos agencias",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "12/07/2023",
+            "Fin": "7/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "473"
+        },
+        {
+            "Actividad": "Tener definido la logística de convocatoria oficial ",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "13/07/2023",
+            "Fin": "7/13/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "472"
+        },
+        {
+            "Actividad": "Entrega de anexo nota metodológica",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 2 días",
+            "Inicio ": "15/07/2023",
+            "Fin": "7/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "470"
+        },
+        {
+            "Actividad": "Pre-registro oficial",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 33 días",
+            "Inicio ": "15/07/2023",
+            "Fin": "8/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "470",
+            "Stoper": "Teaser 1 Convocatorio redes sociales"
+        },
+        {
+            "Actividad": "Respuesta revisión de bases",
+            "Responsable": "IWO",
+            "Duración": "Dura 2 días",
+            "Inicio ": "29/07/2023",
+            "Fin": "7/30/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "456",
+            "Stoper": "Entrega de anexo nota metodológica"
+        },
+        {
+            "Actividad": "Entrega de bases para revisión del primer semestre",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 2 días",
+            "Inicio ": "31/07/2023",
+            "Fin": "8/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "454",
+            "Stoper": "Respuesta revisión de bases"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar diseño de playeras",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "05/08/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "449"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar manual de recarga citibanamex cashless",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "05/08/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "449",
+            "Stoper": "Entrega de primera versión del manual de citibanamex cashless"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar backs, faldones, copetes y pallets",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "05/08/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "449",
+            "Stoper": "Entrega de primera versión del manual de citibanamex cashless/Fecha límite para aprobar manual de recarga citibanamex cashless"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar bonificación y mandar a producir pallets",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "05/08/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "449",
+            "Stoper": "Fecha límite para aprobar manual de recarga citibanamex cashless"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar manual de pre carga",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "05/08/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "449",
+            "Stoper": "Cierre de la campaña cashless"
+        },
+        {
+            "Actividad": "Fecha límite para aprobar artes de la pre carga",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "05/08/2023",
+            "Fin": "8/5/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "449"
+        },
+        {
+            "Actividad": "Entrevistas presenciales",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "07/08/2023",
+            "Fin": "8/7/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "447"
+        },
+        {
+            "Actividad": "Sesiones con Universidades",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 4 días",
+            "Inicio ": "12/08/2023",
+            "Fin": "8/15/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "442",
+            "Stoper": "Teaser 1 Convocatorio redes sociales"
+        },
+        {
+            "Actividad": "Aprobación y rechazo de videos",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 12 días",
+            "Inicio ": "14/08/2023",
+            "Fin": "8/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "440",
+            "Stoper": "Sesiones con Universidades"
+        },
+        {
+            "Actividad": "Contenido de redes sociales",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "15/08/2023",
+            "Fin": "8/15/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "439"
+        },
+        {
+            "Actividad": "Entrega de materiales para campaña precarga",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "16/08/2023",
+            "Fin": "8/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "438"
+        },
+        {
+            "Actividad": "Filtrado pre-registro",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 3 días",
+            "Inicio ": "17/08/2023",
+            "Fin": "8/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "437",
+            "Stoper": "Pre-registro oficial"
+        },
+        {
+            "Actividad": "Convocatorio universidades",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "19/08/2023",
+            "Fin": "8/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "435",
+            "Stoper": "Filtrado pre-registro"
+        },
+        {
+            "Actividad": "Convocatorio Abierta para medios de comunicación",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "20/08/2023",
+            "Fin": "8/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "434",
+            "Stoper": "Aprobación y rechazo de videos"
+        },
+        {
+            "Actividad": "Convocatoria público",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "20/08/2023",
+            "Fin": "8/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "434",
+            "Stoper": "Convocatorio universidades"
+        },
+        {
+            "Actividad": "Entrevistas virtuales",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 26 días",
+            "Inicio ": "26/08/2023",
+            "Fin": "9/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "428",
+            "Stoper": "Convocatorio Abierta para medios de comunicación"
+        },
+        {
+            "Actividad": "Entrega de materiales para campaña",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "29/08/2023",
+            "Fin": "8/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "425"
+        },
+        {
+            "Actividad": "Aprobación totems señalización",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "29/08/2023",
+            "Fin": "8/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "425"
+        },
+        {
+            "Actividad": "Aprobación de lonas en grada",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "29/08/2023",
+            "Fin": "8/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "425"
+        },
+        {
+            "Actividad": "Listo Manual de Voluntarios",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "13/09/2023",
+            "Fin": "9/13/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "410",
+            "Stoper": "Entrevistas virtuales"
+        },
+        {
+            "Actividad": "Inicio de la campaña de pre carga",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 39 días",
+            "Inicio ": "16/09/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "407",
+            "Stoper": "Entrevistas presenciales"
+        },
+        {
+            "Actividad": "Estimación inicio de producción",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "16/09/2023",
+            "Fin": "9/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "407",
+            "Stoper": "Ajustes generales"
+        },
+        {
+            "Actividad": "Casting-ceremonia",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "21/09/2023",
+            "Fin": "9/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "402",
+            "Stoper": "Entrevistas presenciales"
+        },
+        {
+            "Actividad": "Asignación de voluntarios- Mailing de confirmación",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 5 días",
+            "Inicio ": "23/09/2023",
+            "Fin": "9/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "400",
+            "Stoper": "Casting-ceremonia"
+        },
+        {
+            "Actividad": "Inicio de la campaña de cashless",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 35 días",
+            "Inicio ": "23/09/2023",
+            "Fin": "10/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "400",
+            "Stoper": "Fecha límite para aprobar bonificación y mandar a producir pallets/Entrega de materiales para campaña"
+        },
+        {
+            "Actividad": "Contar con agencia y estructura de capacitación de voluntarios",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "27/09/2023",
+            "Fin": "9/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "396",
+            "Stoper": "Listo Manual de Voluntarios"
+        },
+        {
+            "Actividad": "1era entrega de evidencias",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "01/10/2023",
+            "Fin": "10/1/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "392"
+        },
+        {
+            "Actividad": "Fecha límite de confirmación voluntarios. (Foto, talla, confirmación de fechas, etc.)",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "03/10/2023",
+            "Fin": "10/3/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "390",
+            "Stoper": "Contar con agencia y estructura de capacitación de voluntarios"
+        },
+        {
+            "Actividad": "Montaje",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 15 días",
+            "Inicio ": "07/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "386",
+            "Stoper": "Elección de propuesta por parte de CITIBANAMEX"
+        },
+        {
+            "Actividad": "Coca cola entrega de hieleras",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "11/10/2023",
+            "Fin": "10/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "382"
+        },
+        {
+            "Actividad": "Coca cola entrega de split, g1, g1a y g2",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "11/10/2023",
+            "Fin": "10/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "382"
+        },
+        {
+            "Actividad": "Heineken entrega de hieleras",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "11/10/2023",
+            "Fin": "10/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "382"
+        },
+        {
+            "Actividad": "Heineken entrega de split, g1, g1a y g2",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "11/10/2023",
+            "Fin": "10/12/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "382"
+        },
+        {
+            "Actividad": "Capacitaciones Voluntarios / Entrega acreditaciones montaje.",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 8 días",
+            "Inicio ": "12/10/2023",
+            "Fin": "10/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "381",
+            "Stoper": "Asignación de voluntarios- Mailing de confirmación"
+        },
+        {
+            "Actividad": "Volumen de compra",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "16/10/2023",
+            "Fin": "10/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "377",
+            "Stoper": "Capacitaciones Voluntarios / Entrega acreditaciones montaje."
+        },
+        {
+            "Actividad": "Coca-Cola entrega de refrigeradores en los puntos de bebidas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Heineken entrega de refrigeradores en los puntos de bebidas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Recepción de refrigeradores de hielo",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Coca cola entrega de split",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Heineken entrega de split",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Recepción de refrigeradores de hielo",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Coca-Cola entrega de refrigeradores en los puntos de bebidas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Heineken entrega de refrigeradores en los puntos de bebidas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Heineken entrega de refrigeradores en los puntos de bebidas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Entrega de producto de Sabritas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/18/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Entrega de Sabritas",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/18/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Coca-Cola entrega de refrigeradores",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Heineken entrega de refrigeradores",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 5 días",
+            "Inicio ": "17/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "376"
+        },
+        {
+            "Actividad": "Coca cola entrega de Split",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "18/10/2023",
+            "Fin": "10/18/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "375"
+        },
+        {
+            "Actividad": "Coca cola entrega de hieleras",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "18/10/2023",
+            "Fin": "10/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "375"
+        },
+        {
+            "Actividad": "Heineken entrega de hieleras",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "18/10/2023",
+            "Fin": "10/20/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "375"
+        },
+        {
+            "Actividad": "Coca cola entrega de Split y vasos",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 4 días",
+            "Inicio ": "19/10/2023",
+            "Fin": "10/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "374"
+        },
+        {
+            "Actividad": "Heineken entrega de Split y vasos",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 4 días",
+            "Inicio ": "19/10/2023",
+            "Fin": "10/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "374"
+        },
+        {
+            "Actividad": "Encuesta de satisfacción capacitación",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "21/10/2023",
+            "Fin": "10/21/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "372",
+            "Stoper": "Volumen de compra"
+        },
+        {
+            "Actividad": "Entrega de activación",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "22/10/2023",
+            "Fin": "10/22/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "371",
+            "Stoper": "Aprobación de propuesta general"
+        },
+        {
+            "Actividad": "Entrega de Kit de Voluntarios / PLW",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369",
+            "Stoper": "Encuesta de satisfacción capacitación"
+        },
+        {
+            "Actividad": "Cierre de la campaña de pre carga",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Coca cola entrega de Split",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Coca cola conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Heineken entrega de Split",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Heineken conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Entrega de destilados",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Entrega de destilados",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Entrada de camiones",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Coca cola conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Heineken conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/26/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Coca cola entrega de Split y vasos",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Heineken entrega de Split y vasos",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/24/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Heineken conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "24/10/2023",
+            "Fin": "10/25/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "369"
+        },
+        {
+            "Actividad": "Operación",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "25/10/2023",
+            "Fin": "10/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "368",
+            "Stoper": "Envío a FOM propuesta general"
+        },
+        {
+            "Actividad": "Coca cola conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "26/10/2023",
+            "Fin": "10/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "367"
+        },
+        {
+            "Actividad": "Heineken conexión de refrigeradores y colocación de producto",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 2 días",
+            "Inicio ": "26/10/2023",
+            "Fin": "10/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "367"
+        },
+        {
+            "Actividad": "Comité de Sustentabilidad",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366"
+        },
+        {
+            "Actividad": "Política de Sustentabilidad",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Comité de Sustentabilidad"
+        },
+        {
+            "Actividad": "Objetivos de Sustentabilidad",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Comité de Sustentabilidad/Política de Sustentabilidad"
+        },
+        {
+            "Actividad": "Líneas Estratégicas",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Objetivos de Sustentabilidad"
+        },
+        {
+            "Actividad": "Acciones para eficiente el uso de Agua",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Líneas Estratégicas"
+        },
+        {
+            "Actividad": "Acciones para eficiente el uso de Energía",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Líneas Estratégicas"
+        },
+        {
+            "Actividad": "Acciones para Reciclaje",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Líneas Estratégicas"
+        },
+        {
+            "Actividad": "Acciones para Disminución de Insumos",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Líneas Estratégicas"
+        },
+        {
+            "Actividad": "Acciones para la Cultura Sustentable",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Líneas Estratégicas"
+        },
+        {
+            "Actividad": "Indicadores para líneas Estratégicas",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Líneas Estratégicas/Acciones para eficiente el uso de Agua/Acciones para eficiente el uso de Energía"
+        },
+        {
+            "Actividad": "Tableros de Indicadores de Sustentabilidad",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Indicadores para líneas Estratégicas"
+        },
+        {
+            "Actividad": "Determinación de Eficacia de acciones",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Indicadores para líneas Estratégicas/Tableros de Indicadores de Sustentabilidad"
+        },
+        {
+            "Actividad": "Informe Anual de Acciones",
+            "Responsable": "Coordinación Sostenibilidad F1",
+            "Duración": "Dura 365 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Indicadores para líneas Estratégicas/Tableros de Indicadores de Sustentabilidad"
+        },
+        {
+            "Actividad": "Cierre de la campaña cashless",
+            "Responsable": "Dirección Comercial F1",
+            "Duración": "Dura 1 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/27/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "366",
+            "Stoper": "Entrega de materiales para campaña"
+        },
+        {
+            "Actividad": "Recepción de producto hielo",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "27/10/2023",
+            "Fin": "10/29/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "366"
+        },
+        {
+            "Actividad": "Encuesta de satisfacción de evento",
+            "Responsable": "Coordinación Experiencia al Cliente",
+            "Duración": "Dura 1 días",
+            "Inicio ": "28/10/2023",
+            "Fin": "10/28/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "365"
+        },
+        {
+            "Actividad": "Recepción de gráficas",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 4 días",
+            "Inicio ": "13/12/2023",
+            "Fin": "12/16/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "319"
+        },
+        {
+            "Actividad": "Entrega de bases finales para impresión - digitalización",
+            "Responsable": "Marketing y digital CIE",
+            "Duración": "Dura 3 días",
+            "Inicio ": "17/12/2023",
+            "Fin": "12/19/23",
+            "Evento": "10/27/24",
+            "Días al Evento": "315"
+        },
+        {
+            "Actividad": "Entrega final versión completa + versión resumen",
+            "Responsable": "CIE diversas áreas",
+            "Duración": "Dura 1 días",
+            "Inicio ": "22/01/2024",
+            "Fin": "1/22/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "279"
+        },
+        {
+            "Actividad": "Entrega final versión completa + versión corta",
+            "Responsable": "IWO",
+            "Duración": "Dura 2 días",
+            "Inicio ": "22/01/2024",
+            "Fin": "1/23/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "279"
+        },
+        {
+            "Actividad": "Elaboración de resumen, rediseño, impresión y empastado de versión resumen",
+            "Responsable": "CIE diversas áreas",
+            "Duración": "Dura 1 días",
+            "Inicio ": "23/01/2024",
+            "Fin": "1/23/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "278"
+        },
+        {
+            "Actividad": "Entrega de reporte fotográfico para revisión completa",
+            "Responsable": "CIE diversas áreas",
+            "Duración": "Dura 1 días",
+            "Inicio ": "24/01/2024",
+            "Fin": "1/24/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "277"
+        },
+        {
+            "Actividad": "Elaboración de resumen, diseño, impresión y empastado de versión corta",
+            "Responsable": "IWO",
+            "Duración": "Dura 18 días",
+            "Inicio ": "24/01/2024",
+            "Fin": "2/10/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "277",
+            "Stoper": "Entrega final versión completa + versión corta"
+        },
+        {
+            "Actividad": "Entrega de reporte fotográfico para revisión",
+            "Responsable": "CIE diversas áreas",
+            "Duración": "Dura 1 días",
+            "Inicio ": "27/01/2024",
+            "Fin": "1/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "274",
+            "Stoper": "Entrega de correcciones"
+        },
+        {
+            "Actividad": "Entrega de correcciones",
+            "Responsable": "IWO",
+            "Duración": "Dura 1 días",
+            "Inicio ": "27/01/2024",
+            "Fin": "1/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "274",
+            "Stoper": "Entrega de reporte fotográfico para revisión completa"
+        },
+        {
+            "Actividad": "Entrega de fotografías",
+            "Responsable": "IWO",
+            "Duración": "Dura 1 días",
+            "Inicio ": "28/01/2024",
+            "Fin": "1/28/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "273",
+            "Stoper": "Entrega de reporte fotográfico para revisión"
+        },
+        {
+            "Actividad": "Reunión de revisión de contenido fotográfico para reporte de acuerdo de contrato",
+            "Responsable": "CIE diversas áreas",
+            "Duración": "Dura 1 días",
+            "Inicio ": "29/01/2024",
+            "Fin": "1/29/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "272",
+            "Stoper": "Entrega de fotografías/Entrega de reporte fotográfico para revisión"
+        },
+        {
+            "Actividad": "Correcciones versión final",
+            "Responsable": "CIE",
+            "Duración": "Dura 2 días",
+            "Inicio ": "11/02/2024",
+            "Fin": "2/12/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "259",
+            "Stoper": "Elaboración de resumen, diseño, impresión y empastado de versión corta"
+        },
+        {
+            "Actividad": "Reporte de cobertura de medios final versión completa",
+            "Responsable": "IWO",
+            "Duración": "Dura 2 días",
+            "Inicio ": "13/02/2024",
+            "Fin": "2/14/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "257",
+            "Stoper": "Correcciones versión final"
+        },
+        {
+            "Actividad": "Testigos de monitoreo finales",
+            "Responsable": "Servicio Impresión-digitalización/TALSAL",
+            "Duración": "Dura 3 días",
+            "Inicio ": "17/02/2024",
+            "Fin": "2/19/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "253",
+            "Stoper": "Reporte de cobertura de medios final versión completa"
+        },
+        {
+            "Actividad": "Reporte de cobertura de medios con correcciones",
+            "Responsable": "Servicio Impresión-digitalización/TALSAL",
+            "Duración": "Dura 2 días",
+            "Inicio ": "20/02/2024",
+            "Fin": "2/21/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "250",
+            "Stoper": "Reporte de cobertura de medios con correcciones"
+        },
+        {
+            "Actividad": "Agencia RP correcciones hechas",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 2 días",
+            "Inicio ": "24/02/2024",
+            "Fin": "2/25/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "246",
+            "Stoper": "Reporte de cobertura de medios con correcciones"
+        },
+        {
+            "Actividad": "Correcciones",
+            "Responsable": "RP CIE",
+            "Duración": "Dura 2 días",
+            "Inicio ": "26/02/2024",
+            "Fin": "2/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "244",
+            "Stoper": "Reporte de cobertura de medios con correcciones/Agencia RP correcciones hechas"
+        },
+        {
+            "Actividad": "Reporte de cobertura de medio s",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 5 días",
+            "Inicio ": "28/02/2024",
+            "Fin": "3/3/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "242",
+            "Stoper": "Reporte de cobertura de medios con correcciones/Correcciones"
+        },
+        {
+            "Actividad": "Reporte redes sociales y reporte promoción publicitaria",
+            "Responsable": "Marketing y digital CIE",
+            "Duración": "Dura 2 días",
+            "Inicio ": "04/03/2024",
+            "Fin": "3/5/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "237",
+            "Stoper": "Reporte de cobertura de medio s"
+        },
+        {
+            "Actividad": "Entrega de capítulos promoción y monitoreo y cobertura eventos especiales Parte 2",
+            "Responsable": "RP CIE",
+            "Duración": "Dura 2 días",
+            "Inicio ": "04/03/2024",
+            "Fin": "3/5/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "237",
+            "Stoper": "Recepción de gráficas/Reporte de cobertura de medio s"
+        },
+        {
+            "Actividad": "Revisión de bases finales monitoreo",
+            "Responsable": "IWO,RP CIE",
+            "Duración": "Dura 2 días",
+            "Inicio ": "06/03/2024",
+            "Fin": "3/7/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "235",
+            "Stoper": "Entrega de capítulos promoción y monitoreo y cobertura eventos especiales Parte 2"
+        },
+        {
+            "Actividad": "Entrega de bases finales monitoreo",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 6 días",
+            "Inicio ": "07/03/2024",
+            "Fin": "3/12/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "234",
+            "Stoper": "Revisión de bases finales monitoreo"
+        },
+        {
+            "Actividad": "Entrega de capítulo eventos especiales Parte 1",
+            "Responsable": "Agencia INK PR",
+            "Duración": "Dura 3 días",
+            "Inicio ": "12/03/2024",
+            "Fin": "3/14/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "229",
+            "Stoper": "Entrega de bases finales monitoreo/Entrega de capítulos promoción y monitoreo y cobertura eventos especiales Parte 2"
+        },
+        {
+            "Actividad": "Gestión y logística para Abastecimiento y reabastecimiento",
+            "Responsable": "Gerencia Relaciones Públicas F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "10/25/24",
+            "Fin": "10/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "2"
+        },
+        {
+            "Actividad": "Actividades de difusión",
+            "Responsable": "Gerencia Relaciones Públicas F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "10/25/24",
+            "Fin": "10/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "2"
+        },
+        {
+            "Actividad": "Protocolo de apertura",
+            "Responsable": "Dirección de Operaciones F1",
+            "Duración": "Dura 3 días",
+            "Inicio ": "10/25/24",
+            "Fin": "10/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "2"
+        },
+        {
+            "Actividad": "Atención al cliente del Gran Premio de la CDMX",
+            "Responsable": "Coordinación Experiencia al Cliente ",
+            "Duración": "Dura 3 días",
+            "Inicio ": "10/25/24",
+            "Fin": "10/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "2"
+        },
+        {
+            "Actividad": "Gestión de accidentes",
+            "Responsable": "Coordinación de Seguridad Corporativa, Gerencia de Seguridad Corporativa",
+            "Duración": "Dura 3 días",
+            "Inicio ": "10/25/24",
+            "Fin": "10/27/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "2"
+        },
+        {
+            "Actividad": "Gestión y logística para Abastecimiento y reabastecimiento",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Almacenaje"
+        },
+        {
+            "Actividad": "Acceso de proveedores",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Verificación por zona"
+        },
+        {
+            "Actividad": "Desmontaje",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Especificaciones de embalaje",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Entrega del inmueble por zona"
+        },
+        {
+            "Actividad": "Control de inventario",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Documentación y trámite aduanal",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Envío",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Check lista de áreas"
+        },
+        {
+            "Actividad": "Entrega por zona",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Estado de cuenta CXC"
+        },
+        {
+            "Actividad": "Embalaje de equipo",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Especificaciones de embalaje"
+        },
+        {
+            "Actividad": "Almacenaje",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Verificación por zona",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Limpieza de áreas",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Entrega por zona"
+        },
+        {
+            "Actividad": "Entrega del inmueble por zona",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Control de inventario"
+        },
+        {
+            "Actividad": "Compilación para la generación del Informe CPTM",
+            "Responsable": "Coordinación de Sostenibilidad",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Entrega de materiales "
+        },
+        {
+            "Actividad": "Reporte de incidentes",
+            "Responsable": "Coordinación de Sostenibilidad",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Check list de áreas",
+            "Responsable": "Coordinación de Sostenibilidad",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Estado de cuenta CXC",
+            "Responsable": "Gerencia de Planeación Financiera",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Escenarios financieros"
+        },
+        {
+            "Actividad": "Programa de cobro",
+            "Responsable": "Gerencia de Planeación Financiera",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Planeación de ingresos"
+        },
+        {
+            "Actividad": "Fiscalización CXC",
+            "Responsable": "Gerencia de Planeación Financiera",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Escenarios financieros"
+        },
+        {
+            "Actividad": "Informes económicos",
+            "Responsable": "Gerencia de Planeación Financiera",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Presupuesto de ingresos"
+        },
+        {
+            "Actividad": "Estado de resultados",
+            "Responsable": "Gerencia de Planeación Financiera",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Control presupuestal"
+        },
+        {
+            "Actividad": "Control de inventario",
+            "Responsable": "Gerencia de Planeación Financiera",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Fuentes de egresos"
+        },
+        {
+            "Actividad": "Envío",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0"
+        },
+        {
+            "Actividad": "Embalaje de equipo",
+            "Responsable": "Dirección Operaciones F1",
+            "Duración": "Dura 6 días",
+            "Inicio ": "10/27/24",
+            "Fin": "11/1/24",
+            "Evento": "10/27/24",
+            "Días al Evento": "0",
+            "Stoper": "Especificaciones de embalaje"
+        }
+    ]
+}
